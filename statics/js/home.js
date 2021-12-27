@@ -1,7 +1,7 @@
 (function(w) {
     function enterLine() {
         document.getElementById("btnEnter1").onclick = function() {
-            window.open('http://share.cxf12345.com', "_self");
+            window.open('http://share.dzkjzx.net', "_self");
         }
         document.getElementById("btnEnter2").onclick = function() {
             window.open('http://wfboard.com', "_self");
